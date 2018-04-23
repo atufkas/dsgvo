@@ -10,6 +10,15 @@ Die DSVGO ist keine EU-Richtlinie sondern eine EU-Verordnung und somit auch auto
 
 Die DS-GVO und das BDSG-neu nehmen Unternehmen stärker denn je in die Pflicht, die Verwendung personenbezogener Daten sicher, zweckgebunden und transparent zu gestalten. Die DS-GVO vereinheitlicht ("harmonisiert") zugleich die Datenschutzbehandlung in den EU-Mitgliedsstaaten und vereinfacht somit auch den Austausch personenbezogener Daten innerhalb der EU. Die DS-GVO sieht u.a. eine Auskunfts- sowie Löschpflicht auf Verlangen derjenigen Person vor, deren Daten gespeichert und verarbeitet werden.
 
-## Links
+## Weiterführende Quellen
 
+### Offizielle Texte und Dokumente
+
+- [Verordnung (EU) 2016/679 vom 27. April 2016 (Datenschutz-Grundverordnung) – offizieller Gesetzestext bei EUR-Lex](http://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32016R0679&from=DE)
+- [Das BSDG-neu aufbereitet von der Fa. intersoft consulting services AG](https://dsgvo-gesetz.de/bdsg-neu/)
 - [Kurzpapiere zum neuen Datenschutzrecht - veröffentlicht von der Datenschutzkonferenz und bereitgestellt vom BFDI](https://www.bfdi.bund.de/DE/Home/Kurzmeldungen/DSGVO_Kurzpapiere1-3.html)
+
+### Sonstiges
+
+- ["BSDG-neu: Was sind die wesentlichen Änderungen?" - Eine Zusammenfassung der FA. WEKA MEDIA GmbH & Co. KG](https://www.datenschutz-praxis.de/fachartikel/bdsg-neu-wesentliche-aenderungen/)
+- [Datenschutz-Grundverordnung bei wikipedia.de](https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung)

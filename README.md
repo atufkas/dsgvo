@@ -20,5 +20,6 @@ Die DS-GVO und das BDSG-neu nehmen Unternehmen stärker denn je in die Pflicht, 
 
 ### Sonstiges
 
+- [Wikipedia-Eintrag (deutsch) zur Datenschutz-Grundverordnung](https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung)
 - ["BSDG-neu: Was sind die wesentlichen Änderungen?" - Zusammenfassung der FA. WEKA MEDIA GmbH & Co. KG](https://www.datenschutz-praxis.de/fachartikel/bdsg-neu-wesentliche-aenderungen/)
-- [Eintrag zur "Datenschutz-Grundverordnung" bei wikipedia.de](https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung)
+- ["Neue Datenschutzregeln: Was Sie jetzt tun müssen" - Eine Checkliste der Impulse Medien GmbH](https://www.impulse.de/recht-steuern/rechtsratgeber/dsgvo-checkliste/7297857.html)

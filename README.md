@@ -1,5 +1,7 @@
 # DS-GVO
 
+_Hinweis: Die folgenden Texte sind selbst verfasste, nicht offizielle oder verifizierte Kurzdefinition ohne Anspruch auf Vollständigkeit, welche ich für mein eigenes Verständnis und als Service für meine Kunden geschrieben habe. Sie sollen dabei helfen, die rechtliche Einordnung, die Bedeutung und mögliche Auswirkungen des DS-VGO möglichst knapp und allgemein verständlich zu vermitteln._
+
 ## Was ist die DS-GVO und das BDSG-neu?
 
 Die Datenschutz-Grundverordnung (DS-GVO, oft auch: DSVGO) ist eine EU-Verordnung, welche die Rechte und Pflichten von privaten Unternehmen und öffentlichen Einrichtungen bei der Speicherung und Verarbeitung personenbezogener Daten EU-weit vereinheitlicht. Sie trat bereits am 25. Mai 2016 in Kraft und muss nach einer 2-jährigen Übergangsfrist am 25. Mai 2018 endgültig angewendet werden. Zum diesem Zeitpunkt tritt auch das neue Bundesdatenschutzgesetz (BSDG-neu) in Kraft, welches u.a. die Vorgaben der DSVGO berücksichtigt und das BDSG von 1990 (letzte Änderung 2015) vollständig ersetzt.

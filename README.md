@@ -10,7 +10,7 @@ Die Datenschutz-Grundverordnung (DS-GVO, oft auch: DSGVO) ist eine EU-Verordnung
 
 Die DS-GVO ist keine EU-Richtlinie sondern eine EU-Verordnung und somit auch automatisch national anzuwenden. Es existieren jedoch eine Reihe sogenannter „Öffnungsklauseln“, die der nationalen Gesetzgebung Spielräume bei der konkreten Ausgestaltung einräumen.
 
-Die DS-GVO und das BDSG-neu nehmen Unternehmen stärker denn je in die Pflicht, die Verwendung personenbezogener Daten sicher, zweckgebunden und transparent zu gestalten. Die DS-GVO vereinheitlicht ("harmonisiert") zugleich die Datenschutzbehandlung in den EU-Mitgliedsstaaten und vereinfacht somit auch den Austausch personenbezogener Daten innerhalb der EU. Die DS-GVO sieht u.a. eine Auskunfts- sowie Löschpflicht auf Verlangen derjenigen Person vor, deren Daten gespeichert und verarbeitet werden.
+Die DS-GVO und das BDSG-neu nehmen Unternehmen stärker denn je in die Pflicht, die Speicherung und Verarbeitung personenbezogener Daten sicher, zweckgebunden und transparent zu gestalten. So sieht die DS-GVO z.B. das "Recht auf Vergessen", also eine Löschpflicht von Daten vor, sobald die Gründe zur Speicherung entfallen. Die DS-GVO vereinheitlicht ("harmonisiert") zugleich die Datenschutzbehandlung in den EU-Mitgliedsstaaten und vereinfacht somit auch den Austausch personenbezogener Daten innerhalb der EU.
 
 ## Weiterführende Quellen
 

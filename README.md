@@ -6,7 +6,7 @@ _Hinweis: Der folgende Texte ist eine selbst verfasste, weder offizielle noch ju
 
 ## Was ist die DS-GVO und das BDSG-neu?
 
-Die Datenschutz-Grundverordnung (DS-GVO, oft auch: DSGVO) ist eine EU-Verordnung, welche die Rechte und Pflichten von privaten Unternehmen und öffentlichen Einrichtungen bei der Speicherung und Verarbeitung personenbezogener Daten EU-weit vereinheitlicht. Sie trat bereits am 25. Mai 2016 in Kraft und muss nach einer 2-jährigen Übergangsfrist am 25. Mai 2018 endgültig angewendet werden. Zum diesem Zeitpunkt tritt auch das neue Bundesdatenschutzgesetz (BSDG-neu) in Kraft, welches u.a. die Vorgaben der DSGVO berücksichtigt und das BDSG von 1990 (letzte Änderung 2015) vollständig ersetzt.
+Die Datenschutz-Grundverordnung (DS-GVO, oft auch: DSGVO) ist eine EU-Verordnung, welche die Rechte und Pflichten von privaten Unternehmen und öffentlichen Einrichtungen bei der Speicherung und Verarbeitung personenbezogener Daten EU-weit vereinheitlicht. Sie trat bereits am 25. Mai 2016 in Kraft und muss nach einer 2-jährigen Übergangsfrist am 25. Mai 2018 endgültig angewendet werden. Zu diesem Zeitpunkt tritt auch das neue Bundesdatenschutzgesetz (BSDG-neu) in Kraft, welches u.a. die Vorgaben der DSGVO berücksichtigt und das BDSG von 1990 (letzte Änderung 2015) vollständig ersetzt.
 
 Die DS-GVO ist keine EU-Richtlinie sondern eine EU-Verordnung und somit auch automatisch national anzuwenden. Es existieren jedoch eine Reihe sogenannter „Öffnungsklauseln“, die der nationalen Gesetzgebung Spielräume bei der konkreten Ausgestaltung einräumen.
 

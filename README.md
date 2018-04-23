@@ -2,7 +2,7 @@
 
 Kurzüberblick und weiterführende Quellen.
 
-_Hinweis: Der folgende Texte ist eine selbst verfasste, weder offizielle noch juristisch verifizierte Kurzdefinition der DS-GVO ohne Anspruch auf Richtigkeit und Vollständigkeit. Ich habe diese für mein eigenes Verständnis und als Grundlage für die Unterrichtung meiner Kunden geschrieben. Sie soll dabei helfen, die rechtliche Einordnung, die Bedeutung und mögliche Auswirkungen der DS-GVO möglichst knapp und allgemein verständlich zu vermitteln. Korrektur- und Verbesserungsvorschläge sind selbstverständlich willkommen! (23.04.2018 - Matthias Lienau)_
+_Hinweis: Der folgende Text ist eine selbst verfasste, weder offizielle noch juristisch verifizierte Kurzdefinition der DS-GVO ohne Anspruch auf Richtigkeit und Vollständigkeit. Ich habe diese für mein eigenes Verständnis und als Grundlage für die Unterrichtung meiner Kunden geschrieben. Sie soll dabei helfen, die rechtliche Einordnung, die Bedeutung und mögliche Auswirkungen der DS-GVO möglichst knapp und allgemein verständlich zu vermitteln. Korrektur- und Verbesserungsvorschläge sind selbstverständlich willkommen! (23.04.2018 - Matthias Lienau)_
 
 ## Was ist die DS-GVO und das BDSG-neu?
 

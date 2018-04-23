@@ -20,8 +20,9 @@ Die DS-GVO und das BDSG-neu nehmen Unternehmen stärker denn je in die Pflicht, 
 - [Das BSDG-neu aufbereitet von der Fa. intersoft consulting services AG](https://dsgvo-gesetz.de/bdsg-neu/)
 - [Kurzpapiere zum neuen Datenschutzrecht - veröffentlicht von der Datenschutzkonferenz und bereitgestellt vom BFDI](https://www.bfdi.bund.de/DE/Home/Kurzmeldungen/DSGVO_Kurzpapiere1-3.html)
 
-### Sonstiges
+### Wissenswertes für die Praxis
 
 - [Wikipedia-Eintrag (deutsch) zur Datenschutz-Grundverordnung](https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung)
+- ["Die DSGVO und was sie für Digitale Dienste bedeutet: Das Recht auf Datenübertragbarkeit, Privacy by Design und Privacy by Default" von Michael Ochs (Geschäftsmanager Digital Services beim Fraunhofer IESE)](http://blog.iese.fraunhofer.de/die-dsgvo-und-was-sie-fuer-digitale-dienste-bedeutet-das-recht-auf-datenuebertragbarkeit-privacy-by-design-und-privacy-by-default/)
 - ["BSDG-neu: Was sind die wesentlichen Änderungen?" - Zusammenfassung der FA. WEKA MEDIA GmbH & Co. KG](https://www.datenschutz-praxis.de/fachartikel/bdsg-neu-wesentliche-aenderungen/)
 - ["Neue Datenschutzregeln: Was Sie jetzt tun müssen" - Eine Checkliste der Impulse Medien GmbH](https://www.impulse.de/recht-steuern/rechtsratgeber/dsgvo-checkliste/7297857.html)
